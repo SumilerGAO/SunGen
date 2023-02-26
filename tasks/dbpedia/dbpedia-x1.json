@@ -1,0 +1,104 @@
+{
+  "task_name": "dbpedia",
+  "stage": "x1",
+  "labels": {
+    "0": {
+      "instruction":
+        "The article classified to the category of Company: \""
+      ,
+      "counter_labels": ["1","2","3","4","5","6","7","8","9","10","11","12","13"
+      ]
+    },
+    "1": {
+      "instruction":
+        "The article classified to the category of School: \""
+      ,
+      "counter_labels": ["0","2","3","4","5","6","7","8","9","10","11","12","13"
+      ]
+    },
+    "2": {
+      "instruction":
+        "The article classified to the category of Artist: \""
+      ,
+      "counter_labels": ["1","0","3","4","5","6","7","8","9","10","11","12","13"
+      ]
+    },
+    "3": {
+      "instruction":
+        "The article classified to the category of Athlete: \""
+      ,
+      "counter_labels": ["1","2","0","4","5","6","7","8","9","10","11","12","13"
+      ]
+    },
+    "4": {
+      "instruction":
+        "The article classified to the category of Politician: \""
+      ,
+      "counter_labels": ["1","2","3","0","5","6","7","8","9","10","11","12","13"
+      ]
+    },
+    "5": {
+      "instruction":
+        "The article classified to the category of Transportation: \""
+      ,
+      "counter_labels": ["1","2","3","4","0","6","7","8","9","10","11","12","13"
+      ]
+    },
+    "6": {
+      "instruction":
+        "The article classified to the category of Building: \""
+      ,
+      "counter_labels": ["1","2","3","4","5","0","7","8","9","10","11","12","13"
+      ]
+    },
+    "7": {
+      "instruction":
+        "The article classified to the category of Natural Place: \""
+      ,
+      "counter_labels": ["1","2","3","4","5","6","0","8","9","10","11","12","13"
+      ]
+    },
+    "8": {
+      "instruction":
+        "The article classified to the category of Village: \""
+      ,
+      "counter_labels": ["1","2","3","4","5","6","7","0","9","10","11","12","13"
+      ]
+    },
+    "9": {
+      "instruction":
+        "The article classified to the category of Animal: \""
+      ,
+      "counter_labels": ["1","2","3","4","5","6","7","8","0","10","11","12","13"
+      ]
+    },
+    "10": {
+      "instruction":
+        "The article classified to the category of Plant: \""
+      ,
+      "counter_labels": ["1","2","3","4","5","6","7","8","9","0","11","12","13"
+      ]
+    },
+    "11": {
+      "instruction":
+        "The article classified to the category of Album: \""
+      ,
+      "counter_labels": ["1","2","3","4","5","6","7","8","9","10","0","12","13"
+      ]
+    },
+    "12": {
+      "instruction":
+        "The article classified to the category of Film: \""
+      ,
+      "counter_labels": ["1","2","3","4","5","6","7","8","9","10","11","0","13"
+      ]
+    },
+    "13": {
+      "instruction":
+        "The article classified to the category of Book: \""
+      ,
+      "counter_labels": ["1","2","3","4","5","6","7","8","9","10","11","12","0"
+      ]
+    }
+  }
+}

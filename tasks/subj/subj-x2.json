@@ -1,0 +1,14 @@
+{
+  "task_name": "subj",
+  "stage": "x2",
+  "labels": {
+    "0": {
+      "instruction": "The movie review with factual contents (objective) for movie \"<X1>\": \"",
+      "counter_labels": ["1"]
+    },
+    "1": {
+      "instruction": "The movie review with opinions (subjective) for movie \"<X1>\": \"",
+      "counter_labels": ["0"]
+    }
+  }
+}

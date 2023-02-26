@@ -1,0 +1,14 @@
+{
+  "task_name": "subj",
+  "stage": "x1",
+  "labels": {
+    "0": {
+      "instruction": "Movie: \"",
+      "counter_labels": []
+    },
+    "1": {
+      "instruction": "Movie: \"",
+      "counter_labels": []
+    }
+  }
+}

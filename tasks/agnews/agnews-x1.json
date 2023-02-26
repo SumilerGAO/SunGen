@@ -1,0 +1,22 @@
+{
+  "task_name": "ag_news",
+  "stage": "x1",
+  "labels": {
+    "0": {
+      "instruction": "The news articles is in the category of World: \"",
+      "counter_labels": ["1","2","3"]
+    },
+    "1": {
+      "instruction": "The news articles is in the category of Sports: \"",
+      "counter_labels": ["0","2","3"]
+    },
+    "2": {
+      "instruction": "The news articles is in the category of Business: \"",
+      "counter_labels": ["0","1","3"]
+    },
+    "3": {
+      "instruction": "The news articles is in the category of Technology: \"",
+      "counter_labels": ["0","1","2"]
+    }
+  }
+}

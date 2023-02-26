@@ -1,0 +1,14 @@
+{
+  "task_name": "yelp",
+  "stage": "x2",
+  "labels": {
+    "0": {
+      "instruction": "The \"<X1>\" restaurant review in negative sentiment is: \"",
+      "counter_labels": ["1"]
+    },
+    "1": {
+      "instruction": "The \"<X1>\" restaurant review in positive sentiment is: \"",
+      "counter_labels": ["0"]
+    }
+  }
+}

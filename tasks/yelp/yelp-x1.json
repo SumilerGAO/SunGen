@@ -1,0 +1,14 @@
+{
+  "task_name": "yelp",
+  "stage": "x1",
+  "labels": {
+    "0": {
+      "instruction": "Restaurant: \"",
+      "counter_labels": []
+    },
+    "1": {
+      "instruction": "Restaurant: \"",
+      "counter_labels": []
+    }
+  }
+}

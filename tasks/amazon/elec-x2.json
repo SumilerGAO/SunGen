@@ -1,0 +1,14 @@
+{
+  "task_name": "elec",
+  "stage": "x2",
+  "labels": {
+    "0": {
+      "instruction": "The \"<X1>\" product review in positive sentiment is: \"",
+      "counter_labels": ["1"]
+    },
+    "1": {
+      "instruction": "The \"<X1>\" product review in negative sentiment is: \"",
+      "counter_labels": ["0"]
+    }
+  }
+}
