@@ -1,12 +1,3 @@
-wandb
-data
-best_model.ckpt
-__pycache__
+data/imdb/*
+data.zip
 .DS_Store
-debug
-exp
-.idea/*
-.idea
-fig
-anaysis
-calibration
